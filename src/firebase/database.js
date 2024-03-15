@@ -1,0 +1,1 @@
+export const base_url = "https://desarrollo-de-apps-sarairomero.firebaseapp.com/"
